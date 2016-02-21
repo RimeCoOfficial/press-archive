@@ -1,4 +1,5 @@
-#  press@rime.co
+# Contact
+press@rime.co
 
 ## Background
 
